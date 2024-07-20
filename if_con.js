@@ -10,6 +10,8 @@ if (age < 18) {
     console.log("y0u cann0t voat");
 }
 
+//question 2
+
 let mode = "dark";
 let color;
 
