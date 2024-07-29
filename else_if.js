@@ -12,4 +12,4 @@ if(mode === "dark") {
     color = "white";
 }
 
-console.log(color);
+console.log(color);  
